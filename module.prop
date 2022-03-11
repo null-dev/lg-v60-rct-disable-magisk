@@ -1,0 +1,6 @@
+id=lg-v60-rct-disable-magisk
+name=Disable LG v60 RCT
+version=v1.0
+versionCode=1
+author=nulldev
+description=Magisk Module to disable LG v60 RCT

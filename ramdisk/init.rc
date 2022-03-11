@@ -1,0 +1,3 @@
+service rctd /system_ext/bin/rctd 
+    override
+    disabled
